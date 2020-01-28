@@ -8,6 +8,7 @@ Tout les détails du projet dans le fichier du dossier
 ### techno
 HTML + CSS
 
-#### screen
-Screenshots du projet dans le dossier
-/IMAGES/SCREEN/
+#### screenshots
+![Screen1](https://github.com/daooda-galsen-dev/hi-tech-computer-services/blob/master/IMAGES/SCREEN/01.png)
+![Screen2](https://github.com/daooda-galsen-dev/hi-tech-computer-services/blob/master/IMAGES/SCREEN/02.png)
+![Screen3](https://github.com/daooda-galsen-dev/hi-tech-computer-services/blob/master/IMAGES/SCREEN/03.png)
